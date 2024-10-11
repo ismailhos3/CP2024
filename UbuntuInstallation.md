@@ -11,7 +11,7 @@ We are choosing the Desktop image because our setup does not require server func
 An ISO file will be downloaded.
 
 ### Download Rufus
-We need to write the Ubuntu ISO file to a flash drive using Rufus.
+We need to write the Ubuntu ISO file to a flash drive using [Rufus](https://github.com/ismailhos3/CP2024/blob/main/rufus.md).
 Use [this link](https://rufus.ie/en/) to download Rufus.
 
 ![003_Rufus_Download.jpg](./figures/003_Rufus_Download.jpg)
@@ -20,6 +20,65 @@ Run Rufus and write your Ubuntu 22.04 iso file to your flash memory as in the im
 
 ![004_Rufus_iso_image.jpg](./figures/004_Rufus_iso_image.jpg)
 ![005_Rufus_iso_image.jpg](./figures/005_Rufus_iso_image.jpg)
+
+### Installation Options
+There are three main methods to install Ubuntu alongside Windows:
+
+**1. Creating Unallocated Space Using Disk Management Before Installation:**
+**Step 1:** 
+Open the "Disk Management" tool in Windows to shrink one of your existing disk partitions, creating unallocated space.
+**Step 2:** 
+Insert a bootable USB drive with Ubuntu and restart your computer. During the installation, select the "Install Ubuntu alongside Windows" option.
+**Step 3:** 
+Ubuntu will automatically detect the unallocated space and install itself there.
+**Note:** In this method, you manually allocate disk space in Windows, so there's no need for additional partitioning during the Ubuntu installation.
+
+**2. Allocating Disk Space During Ubuntu Installation:**
+
+**Step 1:** 
+Insert a bootable USB drive with Ubuntu and restart your computer. 
+Choose the "Install Ubuntu alongside Windows" option.
+**Step 2:** 
+During the installation process, you'll encounter a disk allocation screen. 
+Use the slider to determine how much disk space you want to allocate to Windows and Ubuntu.
+**Step 3:** 
+After setting the desired disk space, follow the standard installation steps to complete the process.
+
+**Note:** 
+This method allows you to allocate disk space directly during the Ubuntu installation.
+
+**3. Leaving Unallocated Space During Windows Installation:**
+
+**Step 1:** 
+When installing or reinstalling Windows (or on a new computer without an operating system), during the disk partitioning stage, create an unallocated disk space without assigning it a drive letter or formatting it.
+**Step 2:** 
+Proceed with the Windows installation on the allocated partition.
+**Step 3:** 
+After Windows is installed, insert a bootable USB drive with Ubuntu and restart your computer.
+Choose the "Install Ubuntu alongside Windows" option.
+**Step 4:** 
+Ubuntu will automatically detect the unallocated space and install itself there.
+**Note:** 
+This method helps prevent potential conflicts by planning the disk partitioning from the beginning.
+
+#Which Method Should You Choose?
+**Method 3 (Leaving Unallocated Space During Windows Installation):**
+If you have the opportunity to set up your system from scratch, this method offers the cleanest and most trouble-free installation process. 
+By clearly separating disk spaces from the start, you minimize potential future conflicts between Windows and Ubuntu.
+**Other Methods:** 
+For those who prefer to keep their existing Windows installation and avoid reinstalling Windows—along with the hassle of backing up files and reinstalling applications—the first two methods are more convenient. 
+However, exercise caution during disk management and partitioning to prevent data loss or system errors.
+
+#Important Reminders:
+**Backup:** 
+Always back up your important files before starting any installation process.
+**Disk Space:** 
+Incorrect steps during disk partitioning can lead to data loss. 
+Follow the instructions carefully.
+**Compatibility:** 
+Ensure that your computer is compatible with Ubuntu before proceeding with the installation.
+In this document, we will provide detailed steps for each method. 
+Our goal is to help you choose the most suitable installation method and guide you through adding Ubuntu to your system smoothly.
 
 ### Installation
 After using Rufus to make an ISO image into a USB drive, you can restart your computer and press your boot key.
