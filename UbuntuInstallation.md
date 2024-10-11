@@ -79,7 +79,7 @@ This method helps prevent potential conflicts by planning the disk partitioning 
 If you have the opportunity to set up your system from scratch, this method offers the cleanest and most trouble-free installation process. 
 By clearly separating disk spaces from the start, you minimize potential future conflicts between Windows and Ubuntu.
 
-**Other Methods:** 
+**Other Methods: (Method 1 and Method 2)** 
 
 For those who prefer to keep their existing Windows installation and avoid reinstalling Windows—along with the hassle of backing up files and reinstalling applications—the first two methods are more convenient. 
 However, exercise caution during disk management and partitioning to prevent data loss or system errors.
