@@ -98,6 +98,82 @@ In this document, we will provide detailed steps for each method.
 Our goal is to help you choose the most suitable installation method and guide you through adding Ubuntu to your system smoothly.
 
 ### Installation
+
+#### Method 2
+
+After using Rufus to make an ISO image into a USB drive, you can restart your computer and press your boot key.
+If you don't know which key (F2, F8, F9, F10, F12, F11 etc.) is used on your keyboard for boot manager, search it on Google with your computer model.
+In the boot screen of your computer, you need to change boot option to your USB.
+Here you should search on the internet how to change the boot option in your computer model because it changes by the model.
+
+You can find a boot menu screenshot taken on a HP (VICTUS) computer.
+
+![01_select_usb_in_boot_menu.JPG](./figures/01_select_usb_in_boot_menu.JPG)
+
+After selecting the USB drive, you will see a screen similar to the one below. 
+Click `Install Ubuntu` button.  
+
+![02_select_install_ubuntu.JPG](./figures/02_select_install_ubuntu.JPG)
+
+Then choose your keyboard layout as in the image below. (Choose English if you have an English keyboard layout.)
+
+![03_choose_your_keyboard_layout.JPG](./figures/03_choose_your_keyboard_layout.JPG)
+
+Continue to the installation by clicking the `Normal installation` and `Download updates while installing Ubuntu` options as in the figure below.
+
+![04_click_to_continue.JPG](./figures/04_click_to_continue.JPG)
+
+# VERY IMPORTANT STEP
+If you choose wrong you might remove everything on your Windows side. Be careful.
+
+Click 
+
+`Install Ubuntu alongside Windows Boot Manager` 
+
+as the installation type and continue.
+
+If you do not see this option, you need to partition your disk using your Windows OS and select `Something else` option below. Search this on the internet. 
+
+![05_install_ubuntu_alongside_windows.JPG](./figures/05_install_ubuntu_alongside_windows.JPG)
+
+On the next screen, you will not see the disk partitioning section for Ubuntu. 
+This is because the disk space we designated as unallocated during the Windows installation has been automatically detected. 
+If you have completed all the steps correctly, you will see the region selection screen after this.
+
+NOTE: If the disk selection screen appears, you may have made a mistake during the clean installation of Windows. Please check your procedures.
+
+Now, select your region/location here.
+
+![07_choose_turkiye.JPG](./figures/07_choose_turkiye.JPG)
+
+You will see a screen with information such as username, password and computer name as below.
+We recommend you to choose a short computer and user names (e.g. la here) and easy-to-type password (e.g. qwe) here.
+
+![08_fill_the_form_weakpassword.JPG](./figures/08_fill_the_form_weakpassword.JPG)
+
+Then wait for some time the installation to complete as in the picture below.
+
+![09_wait_for_some_time.JPG](./figures/09_wait_for_some_time.JPG)
+
+When the installation is complete, click the `Restart Now` button. 
+
+![10_restart.JPG](./figures/10_restart.JPG)
+
+After restart, you will then see a screen like in the image below.
+Remove the USB driver and then press the `Enter`. 
+
+![11_remove_usb_and_enter.JPG](./figures/11_remove_usb_and_enter.JPG)
+
+When the computer starts, you will see a screen like in the image below. 
+
+![12_choose_ubuntu_or_windows.JPG](./figures/12_choose_ubuntu_or_windows.JPG)
+
+Here, you can select the `Ubuntu` to open Ubuntu, or `Windows Boot Manager` to open Windows. 
+If you do not press `Enter` here for 10 seconds Ubuntu starts as default.
+You can change this order, to make Windows your default OS. For this, you can find information [here](https://itsfoss.com/grub-customizer-ubuntu/).
+
+#### Method 2
+
 After using Rufus to make an ISO image into a USB drive, you can restart your computer and press your boot key.
 If you don't know which key (F2, F8, F9, F10, F12, F11 etc.) is used on your keyboard for boot manager, search it on Google with your computer model.
 In the boot screen of your computer, you need to change boot option to your USB.
