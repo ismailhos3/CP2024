@@ -101,6 +101,26 @@ Our goal is to help you choose the most suitable installation method and guide y
 
 #### Turn-off BitLocker 
 
+If your device is new or recently purchased, it may come with BitLocker encryption enabled by default. 
+`BitLocker` is a security feature that encrypts the data on your disk to protect it.
+However, for the installation process to proceed smoothly, you may need to turn off BitLocker.
+
+Note: If `BitLocker` is not enabled or does not exist on your device, you can skip this step and move on to the next section. 
+
+**To check if `BitLocker` is active, follow these steps:**
+
+- Open `Control Panel` and go to `System and Security`.
+
+- Click on `BitLocker Drive Encryption`.
+
+- If BitLocker is `turned on`, you will see an option to `Turn Off BitLocker`. 
+
+- Click it and follow the prompts to disable it.
+
+If `BitLocker` is not enabled, simply continue with the installation process.
+
+Now that you've ensured `BitLocker` is disabled (if necessary), let’s move on to the installation steps.
+
 #### How to Disable BitLocker in Windows: A Step-by-Step Guide
 
 BitLocker is a security feature in the Windows operating system that encrypts your drives to protect your data. 
