@@ -302,12 +302,12 @@ NOTE: If the disk selection screen appears, you may have made a mistake during t
 
 Now, select your region/location here.
 
-![8.jpeg](./figures/8.jpeg)
+![9.jpeg](./figures/9.jpeg)
 
 You will see a screen with information such as username, password and computer name as below.
 We recommend you to choose a short computer and user names (e.g. la here) and easy-to-type password (e.g. qwe) here.
 
-![9.jpeg](./figures/9.jpeg)
+![10.jpeg](./figures/10.jpeg)
 
 Then wait for some time the installation to complete as in the picture below.
 
