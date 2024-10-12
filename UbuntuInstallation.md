@@ -261,20 +261,25 @@ Here you should search on the internet how to change the boot option in your com
 
 You can find a boot menu screenshot taken on a HP (VICTUS) computer.
 
-![01_select_usb_in_boot_menu.JPG](./figures/01_select_usb_in_boot_menu.JPG)
+![1.jpeg](./figures/1.jpeg)
 
 After selecting the USB drive, you will see a screen similar to the one below. 
 Click `Install Ubuntu` button.  
 
-![02_select_install_ubuntu.JPG](./figures/02_select_install_ubuntu.JPG)
+![2.jpeg](./figures/2.jpeg)
+![3.jpeg](./figures/3.jpeg)
 
 Then choose your keyboard layout as in the image below. (Choose English if you have an English keyboard layout.)
 
-![03_choose_your_keyboard_layout.JPG](./figures/03_choose_your_keyboard_layout.JPG)
+![4.jpeg](./figures/4.jpeg)
 
-Continue to the installation by clicking the `Normal installation` and `Download updates while installing Ubuntu` options as in the figure below.
+Now, you will see Wireless step as in figure below. 
 
-![04_click_to_continue.JPG](./figures/04_click_to_continue.JPG)
+![5.jpeg](./figures/5.jpeg)
+
+Continue to the installation by clicking the `Normal installation` options as in the figure below.
+
+![6.jpeg](./figures/6.jpeg)
 
 # VERY IMPORTANT STEP
 If you choose wrong you might remove everything on your Windows side. Be careful.
@@ -287,7 +292,7 @@ as the installation type and continue.
 
 If you do not see this option, you need to partition your disk using your Windows OS and select `Something else` option below. Search this on the internet. 
 
-![05_install_ubuntu_alongside_windows.JPG](./figures/05_install_ubuntu_alongside_windows.JPG)
+![7.jpeg](./figures/7.jpeg)
 
 On the next screen, you will not see the disk partitioning section for Ubuntu. 
 This is because the disk space we designated as unallocated during the Windows installation has been automatically detected. 
@@ -297,29 +302,29 @@ NOTE: If the disk selection screen appears, you may have made a mistake during t
 
 Now, select your region/location here.
 
-![07_choose_turkiye.JPG](./figures/07_choose_turkiye.JPG)
+![8.jpeg](./figures/8.jpeg)
 
 You will see a screen with information such as username, password and computer name as below.
 We recommend you to choose a short computer and user names (e.g. la here) and easy-to-type password (e.g. qwe) here.
 
-![08_fill_the_form_weakpassword.JPG](./figures/08_fill_the_form_weakpassword.JPG)
+![9.jpeg](./figures/9.jpeg)
 
 Then wait for some time the installation to complete as in the picture below.
 
-![09_wait_for_some_time.JPG](./figures/09_wait_for_some_time.JPG)
+![10.jpeg](./figures/10.jpeg)
 
 When the installation is complete, click the `Restart Now` button. 
 
-![10_restart.JPG](./figures/10_restart.JPG)
+![11.jpeg](./figures/11.jpeg)
 
 After restart, you will then see a screen like in the image below.
 Remove the USB driver and then press the `Enter`. 
 
-![11_remove_usb_and_enter.JPG](./figures/11_remove_usb_and_enter.JPG)
+![12.jpeg](./figures/12.jpeg)
 
 When the computer starts, you will see a screen like in the image below. 
 
-![12_choose_ubuntu_or_windows.JPG](./figures/12_choose_ubuntu_or_windows.JPG)
+![13.jpeg](./figures/13.jpeg)
 
 Here, you can select the `Ubuntu` to open Ubuntu, or `Windows Boot Manager` to open Windows. 
 If you do not press `Enter` here for 10 seconds Ubuntu starts as default.
