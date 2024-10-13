@@ -113,6 +113,10 @@ Our goal is to help you choose the most suitable installation method and guide y
 Please click [here](https://github.com/ismailhos3/CP2024/blob/main/before_the_installation.md) to learn what you need to do before the installation.
 ### Installation
 
+#### Method 1 (PARTIALLY RECOMMENDED)
+
+- This section will be updated later.
+
 #### Method 2 (RECOMMENDED)
 
 After using Rufus to make an ISO image into a USB drive, you can restart your computer and press your boot key.
