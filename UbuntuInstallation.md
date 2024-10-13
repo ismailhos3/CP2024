@@ -4,7 +4,7 @@
 
 - **RAM:** Minimum 4 GB RAM (8 GB recommended).
 
-- **Storage:** At least 25 GB of free disk space (SSD recommended).
+- **Storage:** At least 45 GB of free disk space (SSD recommended).
 
 - **USB Drive:** A USB flash drive with at least 8 GB of storage capacity (16 GB or more recommended for smoother installation).
 
