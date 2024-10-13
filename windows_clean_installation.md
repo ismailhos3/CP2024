@@ -48,3 +48,64 @@ Rufus begins the process of writing the Windows 11 bootable USB drive as in the 
 ![rufus_5.jpeg](./figures/rufus_5.jpeg)
 
 ### Installation of Windows
+
+Select the USB drive from the boot menu to begin installing Windows 11.
+
+![rufus_3.jpeg](./figures/rufus_3.jpeg)
+
+Choose the installation language and regional settings.
+
+![rufus_3.jpeg](./figures/rufus_3.jpeg)
+
+Select your preferred keyboard layout for input.
+
+![rufus_3.jpeg](./figures/rufus_3.jpeg)
+
+Choose the installation option (clean install or repair).
+
+![rufus_3.jpeg](./figures/rufus_3.jpeg)
+
+Enter your product key or select "I don't have a product key" to proceed.
+
+![rufus_3.jpeg](./figures/rufus_3.jpeg)
+
+Accept the license terms to continue the installation.
+
+![rufus_3.jpeg](./figures/rufus_3.jpeg)
+
+Confirm your choice for a clean installation by choosing to erase all files.
+
+![rufus_3.jpeg](./figures/rufus_3.jpeg)
+
+Select the disk or partition where Windows 11 will be installed.
+
+![rufus_3.jpeg](./figures/rufus_3.jpeg)
+
+At this point, you will see various partitions on your SSD. Some of these partitions (like boot or system partitions) cannot be deleted. Delete all partitions that can be removed to create a large Unallocated Space. This is important because Windows requires a dedicated partition, and Ubuntu will later need Unallocated Space for installation.
+
+Important: Do not delete partitions that are marked as system or boot partitions if you need them for other purposes, like booting from USB.
+Next, from the Unallocated Space, create a new partition for Windows by specifying how much of the space to allocate. Leave a sufficient portion unallocated for Ubuntu installation later. This unallocated space will be recognized automatically when you install Ubuntu.
+
+![rufus_3.jpeg](./figures/rufus_3.jpeg)
+
+Select the partition you just created for Windows and proceed with the installation. Leave the unallocated space untouched for Ubuntu.
+
+![rufus_3.jpeg](./figures/rufus_3.jpeg)
+
+Windows 11 is now being installed; this process may take some time and include restarts.
+
+![rufus_3.jpeg](./figures/rufus_3.jpeg)
+
+Connect to a Wi-Fi network to continue with the setup and download updates.
+
+![rufus_3.jpeg](./figures/rufus_3.jpeg)
+
+Choose your privacy settings for location, device tracking, and diagnostic data.
+
+![rufus_3.jpeg](./figures/rufus_3.jpeg)
+
+After installation, update Windows 11 to the latest version through Windows Update.
+
+![rufus_3.jpeg](./figures/rufus_3.jpeg)
+
+
