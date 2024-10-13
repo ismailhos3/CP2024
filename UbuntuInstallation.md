@@ -101,7 +101,7 @@ Our goal is to help you choose the most suitable installation method and guide y
 Please click [here](https://github.com/ismailhos3/CP2024/blob/main/before_the_installation.md) to learn what you need to do before the installation.
 ### Installation
 
-#### Method 2
+#### Method 2 (RECOMMENDED)
 
 After using Rufus to make an ISO image into a USB drive, you can restart your computer and press your boot key.
 If you don't know which key (F2, F8, F9, F10, F12, F11 etc.) is used on your keyboard for boot manager, search it on Google with your computer model.
@@ -173,7 +173,7 @@ Here, you can select the `Ubuntu` to open Ubuntu, or `Windows Boot Manager` to o
 If you do not press `Enter` here for 10 seconds Ubuntu starts as default.
 You can change this order, to make Windows your default OS. For this, you can find information [here](https://itsfoss.com/grub-customizer-ubuntu/).
 
-#### Method 3
+#### Method 3 (HIGHLY RECOMMENDED)
 
 [See](https://github.com/ismailhos3/CP2024/blob/main/windows_clean_installation.md) how to install a `clean installation of Windows`.
 
