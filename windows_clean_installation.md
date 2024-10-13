@@ -33,7 +33,7 @@ In Rufus, click the "Select" button to choose the Windows 11 ISO file you downlo
 
 Configure Rufus settings to load the Windows 11 ISO as the bootable option.
 
-![rufus_2.jpeg](./figures/rufus_2.jpeg)
+![rufus_2.jpeg](./figures/rufus_2a.jpeg)
 
 Choose NTFS as the file system and verify the necessary formatting settings.
 
