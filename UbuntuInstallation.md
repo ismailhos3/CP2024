@@ -1,5 +1,15 @@
 ## Installation of Ubuntu
-### Download
+
+### The standard requirements for installing Ubuntu
+
+- **RAM:** Minimum 4 GB RAM (8 GB recommended).
+
+- **Storage:** At least 25 GB of free disk space (SSD recommended).
+
+- **USB Drive:** A USB flash drive with at least 8 GB of storage capacity (16 GB or more recommended for smoother installation).
+
+### Download Ubuntu
+
 You can download the version Ubuntu 22.04.5 LTS (Jammy Jellyfish) for free from [this link](https://releases.ubuntu.com/22.04/?_gl=1*1ke0b85*_gcl_au*NTMxMTY4NzAuMTcyODQxODcyMA..&_ga=2.196916911.2032042906.1728418720-2114037748.1719220492). 
 
 After clicking the link, make sure to select the Desktop image option from the download options. 
@@ -11,6 +21,7 @@ We are choosing the Desktop image because our setup does not require server func
 An ISO file will be downloaded.
 
 ### Download Rufus
+
 We need to write the Ubuntu ISO file to a flash drive using [Rufus](https://github.com/ismailhos3/CP2024/blob/main/rufus.md).
 Use [this link](https://rufus.ie/en/) to download Rufus.
 
@@ -22,6 +33,7 @@ Run Rufus and write your Ubuntu 22.04 iso file to your flash memory as in the im
 ![005_Rufus_iso_image.jpg](./figures/005_Rufus_iso_image.jpg)
 
 ### Installation Options
+
 There are three main methods to install Ubuntu alongside Windows:
 
 **1. Creating Unallocated Space Using Disk Management Before Installation:**
