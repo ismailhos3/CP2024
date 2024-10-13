@@ -98,7 +98,7 @@ In this document, we will provide detailed steps for each method.
 Our goal is to help you choose the most suitable installation method and guide you through adding Ubuntu to your system smoothly.
 
 ### Before The Installation
-Please click [here] (https://github.com/ismailhos3/CP2024/blob/main/before_the_installation.md) to learn what you need to do before the installation.
+Please click [here](https://github.com/ismailhos3/CP2024/blob/main/before_the_installation.md) to learn what you need to do before the installation.
 ### Installation
 
 #### Method 2
