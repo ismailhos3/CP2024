@@ -254,6 +254,8 @@ You can change this order, to make Windows your default OS. For this, you can fi
 
 #### Method 3
 
+[See](https://github.com/ismailhos3/CP2024/blob/main/windows_clean_installation.md) how to install a `clean installation of Windows`.
+
 After using Rufus to make an ISO image into a USB drive, you can restart your computer and press your boot key.
 If you don't know which key (F2, F8, F9, F10, F12, F11 etc.) is used on your keyboard for boot manager, search it on Google with your computer model.
 In the boot screen of your computer, you need to change boot option to your USB.
