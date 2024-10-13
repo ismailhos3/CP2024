@@ -22,6 +22,8 @@ Click "Download" to save the Windows 11 ISO file to your computer.
 
 ![win11_5.jpeg](./figures/win11_5.jpeg)
 
+An ISO file will be downloaded.
+
 ### Write Windows to the Rufus
 
 In Rufus, click the "Select" button to choose the Windows 11 ISO file you downloaded.
