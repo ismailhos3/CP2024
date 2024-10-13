@@ -43,7 +43,7 @@ In the Control Panel, click on `System and Security.`
 
 Find and click on `BitLocker Drive Encryption.`
 
-**Step 4:** Disable BitLocker
+**Step 4:** `Disable BitLocker`
 
 Next to the drive you want to decrypt, click on `Turn off BitLocker` or `Manage BitLocker.`
 In the window that opens, click the `Turn off BitLocker` button.
