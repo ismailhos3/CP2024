@@ -6,7 +6,7 @@ After clicking the link, make sure to select the Desktop image option from the d
 We won't be installing the server version, so the required ISO file for our installation is under the Desktop image option.
 We are choosing the Desktop image because our setup does not require server functionalities, and the Desktop version provides a graphical interface that is more suitable for the tasks we'll be working on.
 
-![001_alternative_version_button.jpg](./figures/001_alternative_version_button.jpg)
+![ubuntu_download_22.04.png](./figures/ubuntu_download_22.04.png)
 
 An ISO file will be downloaded.
 
@@ -14,7 +14,7 @@ An ISO file will be downloaded.
 We need to write the Ubuntu ISO file to a flash drive using [Rufus](https://github.com/ismailhos3/CP2024/blob/main/rufus.md).
 Use [this link](https://rufus.ie/en/) to download Rufus.
 
-![003_Rufus_Download.jpg](./figures/003_Rufus_Download.jpg)
+![003_rufus_download.png](./figures/rufus_download.png)
 
 Run Rufus and write your Ubuntu 22.04 iso file to your flash memory as in the images below.
 
