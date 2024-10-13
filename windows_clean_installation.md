@@ -1,4 +1,5 @@
-### Download
+### Download Windows
+
 Visit the official Microsoft website to download the Windows 11 ISO file.
 
 You can download the Windows for free from [this link](https://www.microsoft.com/tr-tr/software-download/windows11). 
@@ -21,6 +22,8 @@ Click "Download" to save the Windows 11 ISO file to your computer.
 
 ![win11_5.jpeg](./figures/win11_5.jpeg)
 
+### Write Windows to the Rufus
+
 In Rufus, click the "Select" button to choose the Windows 11 ISO file you downloaded.
 
 ![rufus_1.jpeg](./figures/rufus_1.jpeg)
@@ -41,3 +44,5 @@ Rufus displays a warning that all data on the USB drive will be erased; confirm 
 Rufus begins the process of writing the Windows 11 bootable USB drive as in the figure below.
 
 ![rufus_5.jpeg](./figures/rufus_5.jpeg)
+
+### Installation of Windows
