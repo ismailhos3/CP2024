@@ -1,4 +1,4 @@
-#### Turn-off BitLocker 
+# Turn-off BitLocker 
 
 If your device is new or recently purchased, it may come with BitLocker encryption enabled by default. 
 `BitLocker` is a security feature that encrypts the data on your disk to protect it.
@@ -22,13 +22,13 @@ If `BitLocker` is not enabled, simply continue with the installation process.
 
 Now that you've ensured `BitLocker` is disabled (if necessary), let’s move on to the installation steps.
 
-#### How to Disable BitLocker in Windows: A Step-by-Step Guide
+## How to Disable BitLocker in Windows: A Step-by-Step Guide
 
 BitLocker is a security feature in the Windows operating system that encrypts your drives to protect your data. 
 However, there may be situations where you need to disable BitLocker—for example, when partitioning your disk or installing another operating system. 
 Below, we provide a step-by-step guide on how to turn off BitLocker.
 
-#### Method 1: Using the Control Panel to Disable BitLocker
+### Using the Control Panel to Disable BitLocker
 
 **Step 1:** Access the Control Panel
 
@@ -55,17 +55,17 @@ BitLocker will begin decrypting your drive.
 This process may take some time, depending on the size of your drive and the amount of data.
 Do not turn off your computer or remove the drive during this process.
 
-#### Turn-off Secure Boot 
+# Turn-off Secure Boot 
 
 Usually, if Secure Boot is at the enabled mode, it can cause issues during the installation of Ubuntu.
 
 You might encounter an error screen displaying a message like `Security Policy Violation.`
 
-#### Reasons for the Error
+## Reasons for the Error
 
 **Secure Boot Settings:** Secure Boot is a security feature used to ensure that only trusted software and operating systems are loaded during startup.
 
-#### Disabling Secure Boot from BIOS Settings
+### Disabling Secure Boot from BIOS Settings
 
 **To disable Secure Boot:** 
 
