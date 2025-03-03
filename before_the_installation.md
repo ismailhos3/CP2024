@@ -6,26 +6,11 @@ However, for the installation process to proceed smoothly, you may need to turn 
 
 Note: If `BitLocker` is not enabled or does not exist on your device, you can skip this step and move on to the next section. 
 
-**To check if `BitLocker` is active, follow these steps:**
-
-- Open `Control Panel` and go to `System and Security`.
-
-- Click on `BitLocker Drive Encryption`.
-
-- If BitLocker is `turned on`, you will see an option to `Turn Off BitLocker`. 
-
-- Click it and follow the prompts to disable it.
-
-![01_select_usb_in_boot_menu.JPG](./figures/BitLocker_Turn_Off.png)
-
-If `BitLocker` is not enabled, simply continue with the installation process.
-
 Now that you've ensured `BitLocker` is disabled (if necessary), let’s move on to the installation steps.
 
 ## How to Disable BitLocker in Windows: A Step-by-Step Guide
 
-BitLocker is a security feature in the Windows operating system that encrypts your drives to protect your data. 
-However, there may be situations where you need to disable BitLocker—for example, when partitioning your disk or installing another operating system. 
+There may be situations where you need to disable BitLocker—for example, when partitioning your disk or installing another operating system. 
 Below, we provide a step-by-step guide on how to turn off BitLocker.
 
 ### Using the Control Panel to Disable BitLocker
